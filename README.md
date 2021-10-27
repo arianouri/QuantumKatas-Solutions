@@ -6,3 +6,5 @@
 >[Superdense Coding](https://github.com/arianouri/QuantumKatas-Solutions/blob/main/Superdense%20Coding/SuperdenseCoding.ipynb)
 
 >[Quantum Oracles (Tutorial)](https://github.com/arianouri/QuantumKatas-Solutions/blob/main/Quantum%20Oracles%20(Tutorial)/Oracles.ipynb)
+
+>[Quantum Fourier Transform](https://github.com/arianouri/QuantumKatas-Solutions/blob/main/Quantum%20Fourier%20Transform/QFT.ipynb)
